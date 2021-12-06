@@ -1,5 +1,5 @@
 cacheUrl: https://daily-read-six.vercel.app/cache.json
-cacheMaxDays: 21
+cacheMaxDays: 1
 sources:
   - href: https://christianheilmann.com/feed/
   - href: https://daverupert.com/atom.xml
